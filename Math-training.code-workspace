@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../projects/math-train/src"
+		},
+		{
+			"path": "../projects/math-train/.idea"
+		}
+	],
+	"settings": {}
+}
